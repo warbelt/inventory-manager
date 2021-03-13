@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5594713000242033272
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7640124908993996420, guid: e2f6c05b98ef19141ae673c75f953b08, type: 3}
+      propertyPath: m_Name
+      value: Herb
+      objectReference: {fileID: 0}
+    - target: {fileID: 7640124908993996421, guid: e2f6c05b98ef19141ae673c75f953b08, type: 3}
+      propertyPath: _materialData
+      value: 
+      objectReference: {fileID: 11400000, guid: b6a7d8d70c55327409878cafe9463a4a, type: 2}
+    - target: {fileID: 7640124908993996423, guid: e2f6c05b98ef19141ae673c75f953b08, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7640124908993996423, guid: e2f6c05b98ef19141ae673c75f953b08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7640124908993996423, guid: e2f6c05b98ef19141ae673c75f953b08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7640124908993996423, guid: e2f6c05b98ef19141ae673c75f953b08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e2f6c05b98ef19141ae673c75f953b08, type: 3}
